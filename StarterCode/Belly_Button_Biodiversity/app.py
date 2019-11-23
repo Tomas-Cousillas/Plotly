@@ -1,3 +1,6 @@
+#pylint:disable=E1101
+
+Learn more or give us feedback
 import os
 
 import pandas as pd
